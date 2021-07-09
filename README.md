@@ -1,7 +1,5 @@
 # Link đồ án
-- https://www.kaggle.com/ahsen1330/us-police-shootings
 - https://github.com/washingtonpost/data-police-shootings
-- https://www.washingtonpost.com/graphics/investigations/police-shootings-database/
 
 # Tham khảo thêm
 - https://bom.to/e43PlZMhXmlUW
